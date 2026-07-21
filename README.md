@@ -4,7 +4,7 @@ Interactive Tableau dashboard analyzing employee attrition patterns —
 department, overtime, tenure, and role-level attrition rates.
 
 ## Live Dashboard
-(https://public.tableau.com/views/HRAnalyticsDashboard_17843907532710/HRAnalytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View on Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17843907532710/HRAnalytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Source
 Kaggle: IBM HR Analytics Employee Attrition Dataset (1,470 employees, 35 fields)
